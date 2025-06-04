@@ -103,7 +103,7 @@ dj-track-manager/
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [MIT License
+Este projeto está sob a licença MIT.
 
 Copyright (c) 2025 Patrick Jorge by CueTech
 
